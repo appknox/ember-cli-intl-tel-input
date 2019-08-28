@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-intl-tel-input",
+  "name": "@appknox/ember-cli-intl-tel-input",
   "version": "1.0.14",
   "description": "An Ember.js wrapper for intl-tel-input library by Jack O'Connor (https://github.com/jackocnr/intl-tel-input). The plugin is based on ember-intl-tel-input by Justin Lau(http://justin-lau.github.io/ember-intl-tel-input). The plugin was created as the original plugin is no longer actively upgraded and mainted for new versions of Ember.js and jquery.",
   "keywords": [
@@ -7,18 +7,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:Socivo/ember-cli-intl-tel-input.git"
+    "url": "git+ssh://git@github.com/appknox/ember-cli-intl-tel-input.git"
   },
   "license": "MIT",
-  "author": "Socivo Interactive (Pty) Ltd",
+  "author": "Socivo Interactive (Pty)",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
-  "homepage": "www.socivo.io",
   "bugs": {
     "url": "https://github.com/Socivo/ember-cli-intl-tel-input/issues",
-    "email": "sanket.sharma@socivo.io"
+    "email": "support@appknox.com"
   },
   "scripts": {
     "build": "ember build",
